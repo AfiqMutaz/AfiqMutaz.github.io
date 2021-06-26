@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    text-align: center; 
+ }
+
+.programming-languages {
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+}
+
+.programming-languages table {
+    margin: 0 auto;
+}
+
+.programming-languages img {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+#language-title {
+    padding: 0 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.progress {
+    width: 100%;
+    background: #eee;
+    height: 40px;
+}
+
+.html, .php, .javas, .css, .java, .cpp, .cs, .c, .python, .ruby {
+    width: 0;
+    background: green;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+#cellspacer {
+    padding: 0 30px 0 30px;
+}
+
+#captions {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.honorable-mention-sites {
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+}
+
+.honorable-mention-sites table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.honorable-mention-sites img {
+    max-height: 200px;
+    max-height: 100px;
+}
+
+.office-programs {
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+}
+
+.office-programs table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.office-programs img {
+    max-height: 100px;
+    max-width: 100px;
+    padding: 0 30px;
+}
+
+.cloud-programs {
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+}
+
+.cloud-programs table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cloud-programs img {
+    max-height: 100px;
+    max-width: fit-content;
+    padding: 0 30px;
+}
